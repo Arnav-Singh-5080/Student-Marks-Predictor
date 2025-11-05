@@ -133,6 +133,7 @@ The dataset includes variables such as study hours, attendance, previous marks, 
 
 **Name:** Arnav Singh  
 **Role:** Machine Learning Enthusiast
+
 **Objective:** To explore real-world ML workflows, build predictive systems, and develop interpretable models.
 
 📬 **Contact:**
